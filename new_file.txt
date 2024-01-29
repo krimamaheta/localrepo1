@@ -1,1 +1,2 @@
 it is my new file 
+it in new file for commit
